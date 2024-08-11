@@ -108,11 +108,7 @@ section {
     border-right: 0%;
     border-top: 60%;
     border-radius: 100%;
-    border:7px solid #0dc5ea;
-    position:absolute;
-    white-space: nowrap;
-    overflow: hidden;
-    display: block;
+    display: inline-block;
     
     
     
