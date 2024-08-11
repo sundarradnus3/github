@@ -315,12 +315,5 @@ section {
     .nav-links.open {
         left: 0;
     }
-    .under {
-        padding: 0 7%;
-    }
-    .undar-text h2{
-        text-align: center;
-        color: #0f1151;
-    }
 
 }
