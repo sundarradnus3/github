@@ -137,7 +137,7 @@ section {
 
 .typing-text span::before{
     content: "software Developer";
-    color: #b74b4b;
+    color: #06dd38;
     animation: words 20s infinite;
 }
 
