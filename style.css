@@ -90,6 +90,8 @@ section {
 .home {
     position: relative;
     width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -99,15 +101,12 @@ section {
 }
 
 .home-img img {
-    width: 300px;
-    height: 305px;
+    max-width: 100%;
+    height: auto;
     margin-right: 0px;
-    top: 70px;
-    right:100%;
-    left: 0%;
-    border-left: 70%;
+    border-left: 50%;
     border-right: 0%;
-    border-top: 60%;
+    border-top: 50%;
     border-radius: 100%;
     
     
