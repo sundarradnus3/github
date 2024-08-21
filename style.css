@@ -108,9 +108,6 @@ section {
     border-right: 0%;
     border-top: 50%;
     border-radius: 100%;
-    
-    
-    
 }
 
 .home-text span {
@@ -392,16 +389,20 @@ footer{
     color: #06dd38;
     text-align: center;
 }
+.btn3 {
+    text-align: center;
+    color: #06dd38;
+}    
 .btn3:hover {
     background: transparent;
     border: 1px solid var(--main-color);
     color: var(--text-color);
     display: inline-block;
-    padding: 15px 18px;
-    border-radius: 20px;
+    padding: 10px 15px;
+    border-radius: 15px;
     text-align: center;
-    font-size: 25px;
-    font-weight: 300;
+    font-size: 15px;
+    font-weight: 200;
     word-spacing: 5px;
     border: 2px solid;
 }
@@ -412,5 +413,24 @@ footer{
     top: 70px;
     right:100%;
 }
+.btn4 {
+    text-align: center;
+    color: #06dd38;
+}
+.btn4:hover{
+    background: transparent;
+    border: 1px solid var(--main-color);
+    color: var(--text-color);
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 200;
+    word-spacing: 5px;
+    border: 2px solid;
+  
+}
+
 }
     
