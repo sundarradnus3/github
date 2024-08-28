@@ -431,6 +431,13 @@ footer{
     border: 2px solid;
   
 }
+.project2 img{
+    width: 100%;
+    height: auto;
+    margin-right: 0px;
+    top: 70px;
+    right:100%;
+}
 
 }
     
