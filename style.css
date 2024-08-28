@@ -382,13 +382,8 @@ footer{
     color: #06dd38;
     text-align: center;
 }
-.project h3{
-    color: #ddcb06;
-}
-.project h1{
-    color: #06dd38;
-    text-align: center;
-}
+
+
 .btn3 {
     text-align: center;
     color: #06dd38;
@@ -437,6 +432,35 @@ footer{
     margin-right: 0px;
     top: 70px;
     right:100%;
+}
+
+.education-section {
+    background-color: #58bbe9;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.education-section h3{
+    color: #333;
+    margin-bottom: 20px;
+}
+.education-item {
+    margin-bottom: 20px;
+}
+.education-item h4 {
+    margin: 0;
+    color: #007bff;
+}
+.education-item p {
+    margin: 5px 0;
+    color: #b33535;
+}
+.education-item span {
+    display: block;
+    color: #888;
+    font-size: 0.9em;
 }
 
 }
