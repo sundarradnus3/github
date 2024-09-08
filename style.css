@@ -464,4 +464,28 @@ footer{
 }
 
 }
-    
+.image-row {
+    display: flex;
+    justify-content: space-between;
+}
+.image-row img {
+    width: 18%; /* Adjust the width to ensure 5 images fit in one line */
+    height: auto;
+} 
+.btn5 {
+    text-align: center;
+    color: #f2ee08;
+}    
+.btn5:hover{
+    background: transparent;
+    border: 1px solid var(--main-color);
+    color: var(--text-color);
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 200;
+    word-spacing: 5px;
+    border: 2px solid; 
+}      
